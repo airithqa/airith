@@ -1,0 +1,5 @@
+git add hello.html
+git status
+git reset HEAD hello.html
+git checkout hello.html
+git status
