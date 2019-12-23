@@ -1,0 +1,7 @@
+git checkout -b style
+git status
+touch lib/style.css
+git add lib/hello.html
+git commit -m "Hello uses style.css"
+git add index.html
+git commit -m "Updated index.html"
