@@ -1,0 +1,6 @@
+git tag v1
+git checkout v1^
+cat hello.html
+git tag v1-beta
+git tag
+git hist master --all
