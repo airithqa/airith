@@ -1,0 +1,3 @@
+git hist
+git checkout <hash>
+cat hello.html
