@@ -1,0 +1,4 @@
+git add hello.html
+git commit -m "Oops, we didn't want this commit"
+git revert HEAD
+git hist
