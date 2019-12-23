@@ -1,0 +1,7 @@
+git hist --max-count=1
+git cat-file -t <hash>
+git cat-file -p <hash>
+Вот что выходит у меня…
+git cat-file -p <treehash>
+git cat-file -p <libhash>
+git cat-file -p <hellohash>
