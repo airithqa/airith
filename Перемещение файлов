@@ -1,0 +1,4 @@
+mkdir lib
+git mv hello.html lib
+git status
+git commit -m "Moved hello.html to lib"
