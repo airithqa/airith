@@ -1,0 +1,9 @@
+ls -C .git
+ls -C .git/objects
+ls -C .git/objects/<dir>
+cat .git/config
+ls .git/refs
+ls .git/refs/heads
+ls .git/refs/tags
+cat .git/refs/tags/v1
+cat .git/HEAD
