@@ -1,0 +1,5 @@
+git hist
+git tag oops
+git reset --hard v1
+git hist
+git hist --all
